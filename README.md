@@ -26,21 +26,8 @@ With over 7 years of experience as a Full Stack Engineer, I specialize in crafti
 ![](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black&style=flat-square)
 
-## 📊 GitHub Activity
-![Hamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aprin1991&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aprin1991&layout=compact&theme=radical)
-
-## 🚀 Featured Projects
-- **[Project Name 1](https://github.com/aprin1991/project1)**: A full-stack application built with **React**, **Node.js**, and **MongoDB**, enabling [brief description, e.g., real-time data processing for e-commerce]. ([Live Demo](https://example.com))
-- **[Project Name 2](https://github.com/aprin1991/project2)**: A mobile app developed with **React Native** and **Express**, focused on [brief description, e.g., user authentication and push notifications]. ([Live Demo](https://example.com))
-- **[Project Name 3](https://github.com/aprin1991/project3)**: A **Next.js** and **TypeScript** project with [brief description, e.g., server-side rendering for a blog platform]. ([Live Demo](https://example.com))
-
-## 🏆 Achievements
-- **Certified AWS Developer Associate** (2023): Demonstrated expertise in cloud-based application development.
-- **Open-Source Contributor**: Contributed to [specific repo/project] with features like [brief description].
-- **Hackathon Winner**: Led a team to victory at [Event Name] by building [brief project description].
 
 ## 📬 Get in Touch
 - 💬 Ask me about full-stack development, system architecture, or open-source contributions.
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/hamed-ostovar/) or [Email](mailto:ostovari.eng@gmail.com).
-- ⚡ **Fun Fact**: I once built a fully functional app in 48 hours during a hackathon!
+
