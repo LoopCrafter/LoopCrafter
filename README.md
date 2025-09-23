@@ -31,4 +31,4 @@ With over 8 years of experience as a Full Stack Engineer, I specialize in crafti
 - 💬 Ask me about full-stack development, system architecture, or open-source contributions.
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/hamed-ostovar/) or [Email](mailto:ostovari.eng@gmail.com).
 
-![Hamed's Github Stats](https://github-readme-stats.vercel.app/api?username=LoopCrafter&count_private=true&show_icons=true&include_all_commits=true)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LoopCrafter&show_icons=true&theme=gotham" alt="LoopCrafter" /></p>
