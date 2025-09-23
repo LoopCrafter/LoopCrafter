@@ -4,7 +4,7 @@
 # Hi There 👋
 
 #### **_I'm Hamed Ostovar, Full Stack Engineer_**
-With over 7 years of experience as a Full Stack Engineer, I specialize in crafting scalable, high-performance web and mobile applications. My expertise spans **JavaScript**, **Node.js**, **Express**, **MongoDB**, **React**, **Next.js**, **Vue.js**, **TypeScript**, and **React Native**. I’m passionate about delivering seamless user experiences, writing clean and efficient code, and collaborating in dynamic, fast-paced environments to solve complex challenges.
+With over 8 years of experience as a Full Stack Engineer, I specialize in crafting scalable, high-performance web and mobile applications. My expertise spans **JavaScript**, **Node.js**, **Express**, **MongoDB**, **React**, **Next.js**, **Vue.js**, **TypeScript**, and **React Native**. I’m passionate about delivering seamless user experiences, writing clean and efficient code, and collaborating in dynamic, fast-paced environments to solve complex challenges.
 
 <!-- Contact Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hamed-ostovar/)
@@ -31,3 +31,4 @@ With over 7 years of experience as a Full Stack Engineer, I specialize in crafti
 - 💬 Ask me about full-stack development, system architecture, or open-source contributions.
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/hamed-ostovar/) or [Email](mailto:ostovari.eng@gmail.com).
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LoopCrafter&show_icons=true&theme=gotham" alt="LoopCrafter" />
