@@ -1,5 +1,5 @@
 <!-- Header Image -->
-![Header Banner](https://raw.githubusercontent.com/aprin1991/aprin1991/main/img/header-banner--optimized.svg)
+<!-- ![Header Banner](https://raw.githubusercontent.com/aprin1991/aprin1991/main/img/header-banner--optimized.svg)-->
 
 # Hi There 👋
 
